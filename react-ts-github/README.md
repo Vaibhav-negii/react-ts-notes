@@ -1,4 +1,4 @@
-🔗 **Live Demo:** (Vercel deploy ke baad yahan link daalna)
+🔗 **Live Demo:** [https://react-ts-github.vercel.app/](https://react-ts-github.vercel.app/)
 
 # GitHub Lookup
 
